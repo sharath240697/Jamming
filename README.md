@@ -36,14 +36,13 @@ Many learning materials were referenced during the process, hence all the credit
  
  **2 Application Configuration util.js (src/components/util/util.js)**
  
- 1.) Add Client ID & Redirect URL in the indicated space 
+ * Add Client ID & Redirect URL in the indicated space 
  
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 **3 Install Dependencies**
 
-1.) Run command 'npm install'
+* Run command 'npm install'
 
 **4 Run Application**
 
-1.) Run command 'npm start'
+* Run command 'npm start'
