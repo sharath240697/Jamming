@@ -29,10 +29,10 @@ Many learning materials were referenced during the process, hence all the credit
  
  **1 Spotify Account Registration**
 
-1.) Register Spotify Developer Account
-2.) Register Application
-3.) Add Redirect URL
-4.) Notedown Client id
+* Register Spotify Developer Account
+* Register Application
+* Add Redirect URL
+* Notedown Client id
  
  **2 Application Configuration util.js (src/components/util/util.js)**
  
