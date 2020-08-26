@@ -1,6 +1,10 @@
 # Jamming (Spotify Application)
 Simple JavaScript based Web-application for creating playlist in the Spotify account.
  - This appllication is built utilizing JavaScrip, ReactJS, CSS.
+ 
+# Demo of Application
+
+[MakeMyApp](https://makemyapp.surge.sh/)
 
 # Disclaimer
 **This project was solely built for the learning puropse and hence does not hold any commercial value.**
