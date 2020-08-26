@@ -25,9 +25,7 @@ Many learning materials were referenced during the process, hence all the credit
   - Spotify Developer Account
   
 
- **Steps to run the application:**
- 
- **Project setup**
+ **Project setup & Steps to run the application:**
  
  **1 Spotify Account Registration**
 
@@ -42,7 +40,7 @@ Many learning materials were referenced during the process, hence all the credit
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**3 Install Dependencies
+**3 Install Dependencies**
 
 1.) Run command 'npm install'
 
