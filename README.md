@@ -4,7 +4,7 @@ Simple JavaScript based Web-application for creating playlist in the Spotify acc
  
 # Demo of Application
 
-[MakeMyApp](https://makemyapp.surge.sh/)
+[MakeMyApp](https://makemyapp.surge.sh/) at Surge!
 
 # Disclaimer
 **This project was solely built for the learning puropse and hence does not hold any commercial value.**
