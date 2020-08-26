@@ -5,8 +5,8 @@
         if(window.location.href.match(/\#(?:access_token\=)([\S\s]*?)\&/) === null)
         {
             console.log(window.location.href.match(/\#(?:access_token\=)([\S\s]*?)\&/) === null);
-            let client_id = '&client_id=9be9bce64abc49499a251c74c2837e00';
-            let redirect_uri = '&redirect_uri=https://makemyapp.surge.sh';   //http://localhost:3000
+            let client_id = '&client_id=<YOUR_CLIENT_ID>';
+            let redirect_uri = '&redirect_uri=<REDIRECT_URL>';   //http://localhost:3000
             let scope = '&scope=playlist-modify-public%20playlist-modify-private';
             let response_type = 'response_type=token';
             console.log(url);
